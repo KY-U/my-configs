@@ -3,7 +3,8 @@ A collection of miscellaneous configuration files for various software and tools
 
 ## Included Configurations
 - [**GlazeWM**](https://github.com/glzr-io/glazewm): Windows window manager.
-- [**Zebar**](https://github.com/glzr-io/zebar): Cross platform desktop widgets
+- [**Zebar**](https://github.com/glzr-io/zebar): Cross platform desktop widgets.
+- [**WezTerm**](https://wezterm.org/index.html): Cross platform terminal emulator and multiplexer.
 
 <p align="center">
   <img src="https://img1.picmix.com/output/stamp/normal/3/2/1/4/2494123_773fa.gif" width="45%" />
